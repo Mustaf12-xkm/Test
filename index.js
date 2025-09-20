@@ -2,4 +2,4 @@ function greeting() {
   console.log("hello from master");
 }
 
-const name = "softcamer1";
+const name ='softcamer2'
