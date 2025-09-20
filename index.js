@@ -1,3 +1,2 @@
-function greeting(){
-    console.log("hello from master")
-}
+console.log("hello programers");
+console.log("helo");
