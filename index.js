@@ -1,2 +1,1 @@
-console.log("hello programers");
-console.log("helo");
+console.log("hello from main");
