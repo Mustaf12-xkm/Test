@@ -1,2 +1,3 @@
-console.log("hello programers");
-console.log("helo");
+function greeting(){
+    console.log("hello from master")
+}
