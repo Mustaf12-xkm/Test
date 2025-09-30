@@ -5,7 +5,3 @@ function stash() {
 function stash() {
   console.log("step 2 from develops");
 }
-
-function onlineRepository() {
-  console.log("hello repository online");
-}
